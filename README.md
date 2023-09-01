@@ -1,4 +1,5 @@
 ## Hi, I'm Victor Santos
+### Junior Developer | Angular | React | TypeScript | PHP | ColdFusion | Bubble
 
 <div>
     <a href="https://github.com/victorsantos-dev"></a>
